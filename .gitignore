@@ -1,0 +1,14 @@
+checkpoints
+data
+results
+dev
+old_models
+.ipynb_checkpoints
+__pycache__
+*.swp
+*.p
+*.csv
+*.bc
+*.ipynb
+*.pdf
+*.jpg
