@@ -29,6 +29,8 @@ python run.py --mode train --image_folder [PATH_TO_TRAIN_FOLDER] --trn_epochs [E
 
 - Add a few good-to-haves on model (change loss function, process multiple images, prevent gray imgs, etc)
 
+- Add list of dependencies
+
 - Train on all of ImageNet dataset to improve results while avoiding overfitting.
 
 ## References
