@@ -12,7 +12,7 @@ There are a few differences between the proposed network and my implementation:
 
 - Removed the gaussian noise when generating lower resolution images
 
-The model was trained for 10 epochs on a random set of images from the validation set of the MS-COCO dataset.
+The model was trained for 10 epochs on a random set of 20k images from the validation set of the MS-COCO dataset.
 
 
 ## Usage:
